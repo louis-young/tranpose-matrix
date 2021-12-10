@@ -1,8 +1,6 @@
-# React Typescript ESLint Prettier Husky CI Boilerplate
+# Transpose Matrix
 
-![CI](https://github.com/louis-young/react-typescript-eslint-prettier-husky-ci-boilerplate/actions/workflows/main.yml/badge.svg)
-
-A React, TypeScript, ESLint, Prettier, Husky and CI boilerplate.
+...
 
 ---
 
